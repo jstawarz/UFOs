@@ -21,7 +21,7 @@ From this point, the user can input data into the filters to locate specific UFO
 the filters have been updated to show UFO sightings in Massachusetts that are triangular. Once the filters have filled out the the desired 
 information, the user only has to click the Enter button and the table will filter with the matching results. 
 
-![This is an image](https://github.com/jstawarz/UFOs/blob/main/resources/webpage.png)
+![This is an image](https://github.com/jstawarz/UFOs/blob/main/resources/filtered_webpage.png)
 
 
 ## Summary of Results
